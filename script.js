@@ -1,7 +1,7 @@
-let ownerName = "Your Name"; // update the part BETWEEN the "quotes"
+let ownerName = "Arianna T."; // update the part BETWEEN the "quotes"
 let userName = "YourUsername"; // same here
 
-document.querySelectorAll(".owner-name").forEach((e) => {
+document.querySelectorAll(".Ariannat7367").forEach((e) => {
     e.innerHTML = ownerName;
 });
 
